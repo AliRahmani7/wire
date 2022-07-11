@@ -1,0 +1,12 @@
+[
+	{
+		"id": 1,
+		"name": "Monitor",
+		"description": "144Hz refresh rate"
+	},
+	{
+		"id": 2,
+		"name": "TV",
+		"description": "Revolutionary TV processing technology"
+	}
+]
